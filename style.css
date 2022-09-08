@@ -1,6 +1,6 @@
 :root {
-    --blue: #1e90ff;
-    --white: #ffffff;
+    --blue: #ff1e1e;
+    --white: #000000;
   }
   
   body { background-color: var(--blue); }
